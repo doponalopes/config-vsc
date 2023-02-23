@@ -45,7 +45,7 @@
 
 	// Explorer
 	"explorer.compactFolders": false,
-  "explorer.confirmDelete": true,
+  	"explorer.confirmDelete": true,
 
 	// Editor and breadcrumbs
 	"breadcrumbs.enabled": true,
@@ -56,10 +56,10 @@
 	"editor.fontSize": 20,
 	"editor.tabSize": 2,
 	"editor.formatOnSave": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true,
-    "source.fixAll": true
-  },
+  	"editor.codeActionsOnSave": {
+    		"source.fixAll.eslint": true,
+    		"source.fixAll": true
+  	},
 
 	// Terminal
 	"terminal.integrated.fontSize": 16,
