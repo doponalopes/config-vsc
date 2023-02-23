@@ -63,8 +63,8 @@
     "source.fixAll": true
   },
 
- // Files and search
- "files.defaultLanguage": "{activeEditorLanguage}",
+  // Files and search
+  "files.defaultLanguage": "{activeEditorLanguage}",
   "files.exclude": {
     "USE_GITIGNORE": true
   },
@@ -88,7 +88,7 @@
    "typescript": "npx ts-node --files --transpile-only"
   },
  
- // Terminal
- "terminal.integrated.fontSize": 16,
+  // Terminal
+  "terminal.integrated.fontSize": 16,
 }
 ```
