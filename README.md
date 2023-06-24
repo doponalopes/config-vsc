@@ -34,6 +34,8 @@
 
 - Markdownlint
 
+- SonarLint
+
 ## Settings
 
 ```json
